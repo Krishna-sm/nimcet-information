@@ -23,3 +23,11 @@ Main Website
 ![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/d24d0cf2-0d6b-4fb4-a164-5a49bde37cf1)
 
 
+> ## Eligibility
+
+![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/8fe177b4-021e-416b-aca0-e470a11e09a4)
+
+> ## 2023 Update
+
+![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/1253c8b8-46bb-4bb6-a5d6-e921864e1ed6)
+
