@@ -1,3 +1,5 @@
+![image](https://www.india.com/wp-content/uploads/2022/05/nimcet.jpg)
+
 # Nimcet 2023
 
 > Resouces [Click Here](https://drive.google.com/file/d/1X8S36bhKVaBMPjP5Kiwk7NTpeSRPwxeP/view?usp=sharing)
