@@ -1,6 +1,12 @@
 # Nimcet 2023
 
-Main Website 
+> Resouces [Click Here](https://drive.google.com/file/d/1X8S36bhKVaBMPjP5Kiwk7NTpeSRPwxeP/view?usp=sharing)
+
+ ```bash
+https://drive.google.com/file/d/1X8S36bhKVaBMPjP5Kiwk7NTpeSRPwxeP/view?usp=sharing
+```
+
+Main Website   [Click here]([https://www.education.gov.in/nits](http://nimcet.in))
 ```bash
     http://nimcet.in
 ```
@@ -30,4 +36,13 @@ Main Website
 > ## 2023 Update
 
 ![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/1253c8b8-46bb-4bb6-a5d6-e921864e1ed6)
+
+
+***All Nit Centers*** [Click here](https://www.education.gov.in/nits)
+```bash
+
+https://www.education.gov.in/nits
+```
+
+
 
