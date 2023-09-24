@@ -1,4 +1,4 @@
-![image](https://www.india.com/wp-content/uploads/2022/05/nimcet.jpg)
+![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/3a52baa4-8549-434a-bf75-7a83f0b376da)
 
 # Nimcet 2023
 
