@@ -6,16 +6,16 @@
 
 - NIMCET exam is conducted once a year. The exam is conducted generally in May/June. Application process for the exam starts generally in March/April. There are a total of 10 NITs (National Institute of Technology which take admission in MCA through NIMCET.
 
-- National Institute of Technology, Agartala
-- Motilal Nehru National Institute of Technology, Allahabad
-- National Institute of Technology, Bhopal
-- National Institute of Technology, Calicut
-- National Institute of Technology, Jamshedpur
-- National Institute of Technology, Kurukshetra
-- National Institute of Technology, Patna
-- National Institute of Technology, Raipur
-- National Institute of Technology, Surathkal
-- National Institute of Technology, Tiruchirappalli
+   - National Institute of Technology, Agartala
+   - Motilal Nehru National Institute of Technology, Allahabad
+   - National Institute of Technology, Bhopal
+   - National Institute of Technology, Calicut
+   - National Institute of Technology, Jamshedpur
+   - National Institute of Technology, Kurukshetra
+   - National Institute of Technology, Patna
+   - National Institute of Technology, Raipur
+   - National Institute of Technology, Surathkal
+   - National Institute of Technology, Tiruchirappalli
 
 ***total 31 NITs***
 
