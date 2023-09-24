@@ -1,4 +1,4 @@
-![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/3a52baa4-8549-434a-bf75-7a83f0b376da)
+![image](https://github.com/Krishna-sm/nimcet-information/assets/105251808/ef299fb7-1d0a-43a0-8498-262745728490)
 
 # Nimcet 2023
 
