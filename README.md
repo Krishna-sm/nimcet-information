@@ -6,7 +6,7 @@
 https://drive.google.com/file/d/1X8S36bhKVaBMPjP5Kiwk7NTpeSRPwxeP/view?usp=sharing
 ```
 
-Main Website   [Click here]([https://www.education.gov.in/nits](http://nimcet.in))
+Main Website  [Click Here](http://nimcet.in)
 ```bash
     http://nimcet.in
 ```
