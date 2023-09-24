@@ -16,6 +16,7 @@
 - National Institute of Technology, Raipur
 - National Institute of Technology, Surathkal
 National Institute of Technology, Tiruchirappalli
+total 31 NITs
 
 > Resouces [Click Here](https://drive.google.com/file/d/1X8S36bhKVaBMPjP5Kiwk7NTpeSRPwxeP/view?usp=sharing)
 
